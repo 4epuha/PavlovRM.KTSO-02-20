@@ -1,0 +1,10 @@
+Package: l2pr2.o
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: 4epuha <romap2002@gmail.com>
+Description: Programm 2 from Lecture 2
